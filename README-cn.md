@@ -7,8 +7,8 @@
 
 |  标题   | 状态  | 地址 |
 |  ----  | ----  | ----  |
-| 如何在github上创建仓库| 完成  | Address |
-| 如何在mac电脑上配置命令行工具  | 进行中  | [在这里，阿Sir](https://mp.weixin.qq.com/s/SRTZNAoVqcit-QCsAHFAfA) |
+| 如何在github上创建仓库| 完成  | [在这里，阿Sir](https://mp.weixin.qq.com/s/SRTZNAoVqcit-QCsAHFAfA) |
+| 如何在mac电脑上配置命令行工具  | 进行中  | 在路上 |
 | 在mac电脑上安装华为鸿蒙系统开发者工具  | 进行中  | 在路上 |
 | 在鸿蒙系统上用Javascript写一个“hello，world” | 进行中  | 在路上 |
 | 鸿蒙系统开发学习资料整理| 进行中  | 在路上 |

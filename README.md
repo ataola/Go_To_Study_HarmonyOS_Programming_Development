@@ -8,8 +8,8 @@ Go To Study HarmonyOS Programming Development, Now
 
 |  Title   | Status  | Address |
 |  ----  | ----  | ----  |
-| how to create a repository in github  | done  | Address |
-| how to configure command-line tools on a mac computer  | in progress  | [here, sir](https://mp.weixin.qq.com/s/SRTZNAoVqcit-QCsAHFAfA) |
+| how to create a repository in github  | done  |  [here, sir](https://mp.weixin.qq.com/s/SRTZNAoVqcit-QCsAHFAfA) |
+| how to configure command-line tools on a mac computer  | in progress  | Address |
 | install Huawei HarmonyOS development tools on a mac computer  | in progress  | on the way |
 | type "hello world" on HarmonyOS system with Javascript| in progress  | on the way |
 | HarmonyOS system development materials| in progress  | on the way |
