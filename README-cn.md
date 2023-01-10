@@ -11,7 +11,7 @@
 | 如何在mac电脑上配置命令行工具  | 进行中  | [这边请，阿Sir](https://mp.weixin.qq.com/s/BBsY_saRW2F1BhX2fktjzw) |
 | 在mac电脑上安装华为鸿蒙系统开发者工具  | 进行中  | 在路上 |
 | 在鸿蒙系统上用Javascript写一个“你好，世界” | 进行中  | 在路上 |
-| 鸿蒙系统开发学习资料整理| 进行中  | 在路上 |
+| 鸿蒙系统开发学习资料整理| 进行中  | [这边请，阿Sir](https://mp.weixin.qq.com/s?__biz=MzIxNzI2ODMyMA==&mid=2651292295&idx=1&sn=80907e629c53e26ee1e07b9dde444e49&chksm=8c0f4b88bb78c29e6a51617bd87dea925529d18aed547816d45f909969d58cfcec06dc9c8622#rd) |
 
 
 ## II. 助力每一个梦想
