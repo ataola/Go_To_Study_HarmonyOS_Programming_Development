@@ -10,9 +10,9 @@ Go To Study HarmonyOS Programming Development, Now
 |  ----  | ----  | ----  |
 | how to create a repository in github  | done  |  [here, sir](https://mp.weixin.qq.com/s/SRTZNAoVqcit-QCsAHFAfA) |
 | how to configure command-line tools on a mac computer  | done  | [here, sir](https://mp.weixin.qq.com/s/BBsY_saRW2F1BhX2fktjzw) |
-| install Huawei HarmonyOS development tools on a mac computer  | in progress  | on the way |
-| type "hello world" on HarmonyOS system with Javascript| in progress  | on the way |
-| HarmonyOS system development materials| done  | [here, sir](https://mp.weixin.qq.com/s?__biz=MzIxNzI2ODMyMA==&mid=2651292295&idx=1&sn=80907e629c53e26ee1e07b9dde444e49&chksm=8c0f4b88bb78c29e6a51617bd87dea925529d18aed547816d45f909969d58cfcec06dc9c8622#rd) |
+| development preparation for HarmonyOS application development  | done  | [here, sir](https://mp.weixin.qq.com/s?__biz=MzIxNzI2ODMyMA==&mid=2651292329&idx=1&sn=9e96e8cb0725cb275546280097ce1073&chksm=8c0f4ba6bb78c2b0d598adedd8ea94aaf6b88230832c0a48f07cac5b47cc5b63199460f3c260&token=734558778&lang=zh_CN#rd) |
+| introductory explanation of HarmonyOS application development| done  | on the way |
+| HarmonyOS development materials| done  | [here, sir](https://mp.weixin.qq.com/s?__biz=MzIxNzI2ODMyMA==&mid=2651292295&idx=1&sn=80907e629c53e26ee1e07b9dde444e49&chksm=8c0f4b88bb78c29e6a51617bd87dea925529d18aed547816d45f909969d58cfcec06dc9c8622#rd) |
 
 
 ## II. Help every dream
